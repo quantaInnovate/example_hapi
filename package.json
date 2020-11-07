@@ -1,0 +1,27 @@
+{
+  "name": "hapi_t",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quantaInnovate/example_hapi.git"
+  },
+  "keywords": [
+    "hapi",
+    "node.js"
+  ],
+  "author": "innovate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quantaInnovate/example_hapi/issues"
+  },
+  "homepage": "https://github.com/quantaInnovate/example_hapi#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.0.1",
+    "hapi-auto-route": "^3.0.4"
+  }
+}
